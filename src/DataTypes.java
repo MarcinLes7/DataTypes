@@ -71,6 +71,8 @@ public class DataTypes {
         System.out.println(true);
         System.out.println(false);
 
+        System.out.println("-----");
+
         boolean chosen = true;
         boolean q = false;
         System.out.println(q);
